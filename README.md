@@ -9,11 +9,3 @@ This is a simple user model extension of django User model with [edu_uh_cas](htt
 
 ### Quick start
 1. Install and set up [django_cas_ng](https://github.com/mingchen/django-cas-ng), first.
-
-2. Install from git,
-```
-pip install git+git://github.com/songmink/edu_uh_cas@master
-```
-
-3. Run `python manage.py migrate`
-
